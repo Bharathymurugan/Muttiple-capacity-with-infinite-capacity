@@ -21,6 +21,7 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 ![alt text](experiment.png)
 
 ## Program
+```
 #Developed by: Bharathy M
 #Reference number: 212225040046/ 25013139
 import math
@@ -54,6 +55,7 @@ if (rho<1):
 else:
     print("Warning! Objects Over flow will happen in the conveyor")
 print("--------------------------------------------------------------")
+```
 
 ## Output :
 
